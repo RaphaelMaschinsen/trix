@@ -31,7 +31,7 @@ int opus_bitrate =  112;
 int opus_frame_size = 2880;
 
 int udp_port = 5555;
-char const *udp_addr = "81.11.161.28"; 
+char const *udp_addr = "127.0.0.1"; 
 
 int rtp_payload_type = 96;
 
